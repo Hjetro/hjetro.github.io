@@ -2,9 +2,10 @@
 Root site
 
 ## Test
-| a | b |
-| - | - |
+| Aaa | Bbb |
+| --- | --- |
 | First | Second |
+| Start | End |
 
 ### Syntax
 
