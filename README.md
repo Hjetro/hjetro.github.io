@@ -3,5 +3,5 @@ Root site
 
 ## Test
 |a|b|
-|-|-
+|-|-|
 |First|Second|
