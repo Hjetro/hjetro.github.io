@@ -2,8 +2,8 @@
 Root site
 
 ## Test
-| a| b |
-| -| - |
+| a | b |
+| - | - |
 | First | Second |
 
 ### Syntax
