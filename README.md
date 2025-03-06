@@ -16,7 +16,7 @@ Root site
 
 ### Fenced Code Block	
 
-```
+``` json
 {
   "firstName": "John",
   "lastName": "Smith",
